@@ -1,4 +1,5 @@
-package main.java.com.narxoz.rpg;
+package main.java.com.rpg;
+
 
 import main.java.com.narxoz.rpg.characters.*;
 import main.java.com.narxoz.rpg.equipment.*;
